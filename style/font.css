@@ -1,0 +1,18 @@
+@font-face {
+    font-family: Poppins;
+    src: url(../font/Poppins-Black.otf),
+    url(../font/Poppins-BlackItalic.otf);
+    font-weight: italic;
+}
+@font-face {
+    font-family: Poppins;
+    src: url(../font/Poppins-Bold.otf),
+    url(../font/Poppins-BoldItalic.otf);
+    font-weight: bold;
+}
+@font-face {
+    font-family: Poppins;
+    src: url(../font/Poppins-Medium.otf)
+    ,url(../font/Poppins-MediumItalic.otf);
+    font-weight: 600;
+}
